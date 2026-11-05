@@ -16,6 +16,10 @@ I build small, opinionated tools, and I fix the bugs I hit in the open-source pr
 | [rateify](https://github.com/kaanisthatyou/rateify) | Judge every song, keep receipts. A tiny zine-style Spotify rating widget. |
 | [redstring](https://github.com/kaanisthatyou/redstring) | A dossier-styled gym for observation and memory. Offline, no account. |
 
+#### My 2026 in lights
+
+<a href="https://byteland.dev/readme?u=kaanisthatyou&ref=gh-profile#year"><img src="https://byteland.dev/year/kaanisthatyou.svg" width="720" alt="My 2026 as twelve buildings: one window per day, lit by what I shipped"></a>
+
 #### Merged upstream
 
 Fixes I wrote that shipped in projects other people rely on:
