@@ -4,7 +4,7 @@
 
 I build small, opinionated tools, and I fix the bugs I hit in the open-source projects I use. Lately: a city for developers, and a lot of Windows path bugs.
 
-**Building now: [Byteland](https://byteland.dev/?ref=gh-profile).** A night city where every developer is a building and every lit window is a project. Each project gets a room with chat, a forum and voice. Drawn on a canvas, no framework, no dependencies. Type your username at [byteland.dev/readme](https://byteland.dev/readme?ref=gh-profile) to get a card like the one above.
+**Building now: [Byteland](https://byteland.dev/?ref=gh-profile).** A night city where every developer is a building and every lit window is a project. Each project gets a room with chat, a forum and voice. Drawn on a canvas, no framework, no dependencies. Type your username at [byteland.dev/readme](https://byteland.dev/readme?ref=gh-profile) to get a card like the one above, or a repository at [byteland.dev/r](https://byteland.dev/r?ref=gh-profile) to see its contributors as a night street.
 
 #### Things I made
 
