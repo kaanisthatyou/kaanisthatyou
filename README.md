@@ -4,6 +4,8 @@
 
 I build small, opinionated tools, and I fix the bugs I hit in the open-source projects I use. Lately: a city for developers, and a lot of Windows path bugs.
 
+**Open for freelance work:** websites, bots, automation, scraping and AI integrations, fixed price and a delivery date up front. [Get a quote →](https://kaandrick.dev/hire?ref=gh-profile)
+
 **Building now: [Byteland](https://byteland.dev/?ref=gh-profile).** A night city where every developer is a building and every lit window is a project. Each project gets a room with chat, a forum and voice. Drawn on a canvas, no framework, no dependencies. Type your username at [byteland.dev/readme](https://byteland.dev/readme?ref=gh-profile) to get a card like the one above, or a repository at [byteland.dev/r](https://byteland.dev/r?ref=gh-profile) to see its contributors as a night street.
 
 #### Things I made
@@ -12,7 +14,7 @@ I build small, opinionated tools, and I fix the bugs I hit in the open-source pr
 |---|---|
 | [nightshift](https://github.com/kaanisthatyou/nightshift) | A pixel office where cheap models work the night shift and you are the boss. |
 | [claudedex](https://github.com/kaanisthatyou/claudedex) | An always-on-top questlog for Claude Code sessions: a Pokédex, a desktop buddy, missions. |
-| [roll-credits](https://github.com/kaanisthatyou/roll-credits) | Picks one thing to watch tonight out of everything you can actually stream. Rust + Tauri. |
+| [roll-credits](https://github.com/kaanisthatyou/roll-credits) | Flick through posters, keep what you would watch, then roll between them. [Try it in the browser](https://roll-credits-eight.vercel.app/?ref=gh-profile), or the Tauri desktop app. |
 | [rateify](https://github.com/kaanisthatyou/rateify) | Judge every song, keep receipts. A tiny zine-style Spotify rating widget. |
 | [redstring](https://github.com/kaanisthatyou/redstring) | A dossier-styled gym for observation and memory. Offline, no account. |
 
